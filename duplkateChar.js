@@ -32,4 +32,4 @@ console.log(letRepeat("Не секрет, что во многих местах 
   
 //     return [orig, max];
 //   }
-//   console.log(repCount("Hello my name Roman Dubinetc!"));
+//   console.log(repCount("Hello my name Roman Dubine"));
